@@ -105,8 +105,7 @@ jupyter notebook
 
 ```
 data/           -> Dataset
-notebooks/      -> Jupyter notebooks
-scripts/        -> Python scripts
+scripts/        ->  Jupyter notebooks Python scripts
 visuals/        -> Graphs and charts
 ```
 
